@@ -10,13 +10,14 @@ It can be imagined as subtitles for the talk.
 
 ## Categorisation
 
-Type: accessibility feature
-Implementation difficulty: easy
-Appropriate decision time: early
+Type: accessibility feature 
+Implementation difficulty: easy 
+Appropriate decision time: early 
 
 ## Why?
  
 Live transcription allows people with difficulties in oral understanding to follow the talk along nicely. Reasons for understanding problems are diverse. Among them are:
+
 * General difficulties of hearing
 * Trying to follow a foreign language
 * Speaker accent
@@ -65,19 +66,19 @@ Speakers that have never spoken with live transcription might have the tendency 
 
 Get a quote from a supplier, along with a commitment date.
 
-When? As early as possible, before budgeting
+When? As early as possible, before budgeting 
 Suggestion: 4 months before the event
 
 ### Schedule goes to the supplier
 
 Give you schedule skeleton (no talk names, just timings) to your supplier
 
-When? Last month before the conference
+When? Last month before the conference 
 Suggestion: 2 weeks before the event
 
 ### Confirm and collect hardware
 
 Make sure a secondary screen is available
 
-When? Last month before the conference
+When? Last month before the conference 
 Suggestion: 2 weeks before the event
