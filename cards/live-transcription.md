@@ -11,7 +11,9 @@ It can be imagined as subtitles for the talk.
 ## Categorisation
 
 Type: accessibility feature 
+
 Implementation difficulty: easy 
+
 Appropriate decision time: early 
 
 ## Why?
