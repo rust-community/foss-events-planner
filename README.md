@@ -6,6 +6,8 @@ For that, it documents _features_ of events and some general categorisation of t
 
 Additionally, the planner gives additional documentation for general subjects (budgeting, accessibility strategy, CFP, etc.).
 
+This project is intended to be collaborative, see [Contribution](#Contribution) for details.
+
 ## Cards
 
 Features take the form of **cards**. Each card holds some basic information:
@@ -52,3 +54,23 @@ This is a list of tasks that must be done to implement this feature and _when_ t
 ## Suppliers
 
 Suppliers that we know of providing this feature.
+
+# Contribution
+
+This project encourages contribution of all kinds: comments, criticism and all additions are very welcome.
+
+Read the [Contribution Guidelines](CONTRIBUTING.md) for help to get started.
+
+# Code of Conduct
+
+This project is part of the [Rust project](https://rust-lang.org) and follows its [Code of Conduct](https://www.rust-lang.org/en-US/conduct.html).
+
+# LICENSE
+
+## Plain
+
+You are allowed to reuse and adapt the material, as long as you keep the following attribution: "The Rust community team and contributors", preferably linking to the original or an adopted CONTRIBUTORS.md file.
+
+## Legal
+
+The license is Creative Commons-Attribution 4.0 (CC-BY 4.0). See [LICENSE.md](LICENSE.md) for details.
