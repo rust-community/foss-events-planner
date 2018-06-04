@@ -1,6 +1,6 @@
 # Contributing
 
-You can contributed to the FOSS events planner in many ways. We want to make sure that everyone can contribute and are happy to help you in that, answering questions, especially providing review and correcting any mistake. This is a writing-heavy project, but if you fear your writing is not good enough for the project: It is, we'll help you there.
+You can contribute to the FOSS events planner in many ways. We want to make sure that everyone can contribute and are happy to help you in that, answering questions, especially providing review and correcting any mistake. This is a writing-heavy project, but if you fear your writing is not good enough for the project: It is, we'll help you there.
 
 ## Questions, Issues and Confusion
 
@@ -9,7 +9,7 @@ You read something that confused you or that raised a question for you?
 * Make sure you are logged in to GitHub
 * Go to the issues tab
 * Hit "new issue"
-* Give us a short description of your issue with a meaningful title
+* Fill out the given issue and give it a telling title
 * Be ready to answer questions
 * Thank you and we'll handle it from there!
 
@@ -42,7 +42,7 @@ Is it interesting for you? Then:
 * The text will be merged
 * You are now a contributor
 
-Please note that not all pull requests are merged, but even unmerged PRs make us find things.
+Please note that not all pull requests are merged, but even unmerged PRs have value through their discussion!
 
 ## Adding a new way of viewing things
 
