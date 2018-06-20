@@ -3,7 +3,9 @@ feature-key: <fill in unique name>
 category: <one of accessibility, budgeting, cfp, social-media, ...>
 ---
 
-# Description
+# Name
+
+## Description
 
 <an overview of the feature>
 

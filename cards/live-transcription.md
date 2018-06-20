@@ -3,7 +3,9 @@ feature-key: live-transcription
 category: accessibility
 ---
 
-# Description
+# Live Transcription
+
+## Description
 
 Live transcription is a service that transcribes speakers to text while they are speaking.
 It can be imagined as subtitles for the talk.
