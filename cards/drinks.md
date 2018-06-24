@@ -12,7 +12,9 @@ Non-alcoholic drinks are a base necessity of every conference. Luckily, they are
 ## Categorisation
 
 Type: catering
+
 Implementation difficulty: easy
+
 Appropriate decision time: mid
 
 ## Why?
@@ -68,6 +70,7 @@ Also, discuss the nature and the labeling of the drinks, as with all sponsoring 
   * If yes, will they insist to take their offer?
 
 When? Before signing the venue.
+
 Suggestion: Roughly 6 months before the event
 
 ### Get quote
@@ -75,6 +78,7 @@ Suggestion: Roughly 6 months before the event
 Get a proper quote from the suppliers you picked.
 
 When? When you have a rough idea of how many people will attend.
+
 Suggestion: About 1 month before the event.
 
 ### Optional: Plan service schedule
@@ -82,6 +86,7 @@ Suggestion: About 1 month before the event.
 Should you decide to service drinks yourselves, come up with a service schedule for the conference. Who fills the fridges, how often?
 
 When? Right before the conf.
+
 Suggestion: 1 week to 1 day before the conference.
 
 ### Pay up
@@ -89,4 +94,5 @@ Suggestion: 1 week to 1 day before the conference.
 Don't forget paying the final invoice after the event.
 
 When? After the conf.
+
 Suggestion: As soon as you get the invoice.
