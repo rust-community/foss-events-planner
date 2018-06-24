@@ -29,6 +29,8 @@ Drinks can be easily bought from delivery services. Usually, even small numbers 
 
 If possible, search for a supplier that allows you to buy on commission. This way, the drinks will be delivered and also carried away, but you also only pay the actual consumption.
 
+For waste management reasons, prefer bottled drinks in crates. These can be easily collected and are environmentally friendly.
+
 As drinks are a basic commodity, you can do this rather late in
 the planning process, but you should research suppliers in the middle time of your planning, when you have some downtime.
 
