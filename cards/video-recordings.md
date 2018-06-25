@@ -16,7 +16,7 @@ Type:
 
 Implementation difficulty: medium
 
-Appropriate decision time:
+Appropriate decision time: budgeting early, detailed plan 2 months before the event
 
 ## Why?
  
@@ -37,6 +37,7 @@ If possible visit the venue early and clarify these questions.
 If hiring an external video crew connect them with the venue technician.
 
 In the video recording contract clarify video editing & cutting services, expected delivery times, licenses.
+We recommend the [CC BY-SA license](https://creativecommons.org/licenses/by-sa/2.0/).
 
 Prepare required data:
 
@@ -95,7 +96,7 @@ Suggestion: 2 weeks before the event
 ### Confirm hardware shipment
 
 Confirm with the supplier that additional hardware is shipped in time (e.g. video camera, cables, ...).
-Make sure this material is transpored to the venue on the date of the event (or the day before).
+Make sure this material is transported to the venue on the date of the event (or the day before).
 
 When? Last month before the conference
 Suggestion: 1-2 weeks before the event (shipment takes time)
