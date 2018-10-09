@@ -6,18 +6,27 @@ leaders successfully build their own flexible events.
 It will highlight the many things that are possible and how to plan 
 them.
 
-> We are working as the Rust community events team to create a set of open event 
-> planning guidelines so that tech community organisers can plan and organise 
-> tech events, on their own, successfully.
+There is currently no central place to go for _first-time organisers_
+to learn how to run a conference and get _actionable_ tasks out of it,
+without building a copy of an already existing event.
+The FOSS events planner tries to address this point.
+
+Using the FOSS events planner, people can pick _features_ for their
+conference and then get presented with a set of _tasks_. For example,
+if you want to run a conference with speaker selection, the tasks will
+include "running a call for proposals", "selecting the speakers", etc.
+Some tasks might have dependencies, for example, "determining a ticket price"
+requires that all tasks of the kind "find out what feature X costs" are done.
+
+With this technique, we're trying to get people to both be aware what's possible,
+but also be able to quickly filter by what's relevant for them.
 
 Milestones
 --
 
-software development goals, learning resources you’ll create, events or meetings you plan to hold, campaigns you’ll run.
-
 ## Name
 
-Come up  with a catch name for the project.
+Come up with a catch name for the project.
 
 Tasks:
 - Suggest names
@@ -32,29 +41,17 @@ Tasks:
 - Design Website Content
 - Launch website
 
+## Finding contributors
 
-## Learning Resources
+To make sure that we are not documenting our current conferences only, we should find additional contributors.
 
-## Events and meetings
+Tasks:
+- Find additional writers
+- Find website contributors of all kinds
 
-## Campaigns
+## Finding users
 
+To make sure that our content is helpful, we need to find first users.
 
-Other Goals / Milestones (to consider)
---
-
-## Build a progress/issue tracker.
-
-Prepare a kanban-style boards for issue and progress tracking.
-This can be done using Github's **Projects** feature on the events planner repository.
-
-## Create and test prototypes.
-
-> A prototype is an early, unpolished version of your project or a feature of your project, 
-> created specifically for testing purposes.
-
-
-## User Testing
-
-> No matter what form your prototype takes, it should be something users can react 
-> to, and their feedback should help answer questions or define a direction for further work
+Tasks:
+- Find a first user to collect feedback

@@ -8,6 +8,8 @@ Additionally, the planner gives additional documentation for general subjects (b
 
 This project is intended to be collaborative, see [Contribution](#Contribution) for details.
 
+Also, see the [Roadmap](roadmap.md) for a high level overview of our current goals.
+
 ## Cards
 
 Features take the form of **cards**. Each card holds some basic information:
