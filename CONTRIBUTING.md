@@ -2,6 +2,27 @@
 
 You can contribute to the FOSS events planner in many ways. We want to make sure that everyone can contribute and are happy to help you in that, answering questions, especially providing review and correcting any mistake. This is a writing-heavy project, but if you fear your writing is not good enough for the project: It is, we'll help you there.
 
+Before you get started, have a look at the [README](README.md).
+
+## Write a feature
+
+You have experience with a conference _or_ you want to run one?
+
+The FOSS events planner has a concept called features, described in the [README](README.md).
+
+Not all of them are fully fleshed out, have a look at the issues tab for notes on unwritten ones.
+Is it interesting for you? Then:
+
+* Make a comment, notifying people that you want to work on it
+* Add a file in `/cards`, copying the template file
+* Flesh out the items, filling in your own experiences
+* File a Pull Request
+* We will review and discuss the text as peers and improve it
+* The text will be merged
+* You are now a contributor
+
+Please note that not all pull requests are merged, but even unmerged PRs have value through their discussion!
+
 ## Questions, Issues and Confusion
 
 You read something that confused you or that raised a question for you?
@@ -24,25 +45,6 @@ You found a typo, think something could be phrased better? You would like to hel
 * Thank you and we'll handle it from there!
 * Be ready to answer questions
 * You are now a contributor!
-
-## Write a feature
-
-You have experience with a conference _or_ you want to run one?
-
-The FOSS events planner has a concept called features, described in the [README](README.md).
-
-Not all of them are fully fleshed out, have a look at the issues tab for notes on unwritten ones.
-Is it interesting for you? Then:
-
-* Make a comment, notifying people that you want to work on it
-* Add a file in `/cards`, copying the template file
-* Flesh out the items, filling in your own experiences
-* File a Pull Request
-* We will review and discuss the text as peers and improve it
-* The text will be merged
-* You are now a contributor
-
-Please note that not all pull requests are merged, but even unmerged PRs have value through their discussion!
 
 ## Adding a new way of viewing things
 
