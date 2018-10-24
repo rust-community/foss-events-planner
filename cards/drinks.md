@@ -81,6 +81,14 @@ When? When you have a rough idea of how many people will attend.
 
 Suggestion: About 1 month before the event.
 
+### Get final attendee numbers
+
+Get the final number of attendees before finally ordering.
+
+When? Right before the conf.
+
+Suggestion: About 4 days before the event.
+
 ### Optional: Plan service schedule
 
 Should you decide to service drinks yourselves, come up with a service schedule for the conference. Who fills the fridges, how often?
