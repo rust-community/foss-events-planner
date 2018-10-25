@@ -10,6 +10,8 @@ Additionally, the planner gives additional documentation for general subjects (b
 
 To help out, please read our [Contributing](CONTRIBUTING.md) document!
 
+Also, see the [Roadmap](roadmap.md) for a high level overview of our current goals.
+
 ## Cards
 
 Features take the form of **cards**. Each card holds some basic information:
